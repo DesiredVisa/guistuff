@@ -1,1 +1,3 @@
-
+local Themes = {}
+Themes['PurpleGradient'] = https://raw.githubusercontent.com/DesiredVisa/guistuff/main/tbpurplegradient
+return Themes
