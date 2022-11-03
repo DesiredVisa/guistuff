@@ -1,6 +1,6 @@
 -- BlueGradient by ForeverHD
-local selectedColor = Color3.fromRGB(0, 170, 255)
-local selectedColorDarker = Color3.fromRGB(0, 120, 180)
+local selectedColor = Color3.fromRGB(163, 134, 248)
+local selectedColorDarker = Color3.fromRGB(128 ,89, 244)
 local neutralColor = Color3.fromRGB(255, 255, 255)
 return {
     
